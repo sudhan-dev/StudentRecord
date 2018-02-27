@@ -1,11 +1,9 @@
 //
 //Program to sort student record based on below logic
 //Each student record contains following attributes
-//Roll No(2017BV101) where 1-4 digits indicate year of admission, next 3 char course enrolled, 
-//				next digit section number, next two digits sequence number.
-
-//
-//				
+//Roll No(2017BV101) where 1-4 digits indicate year of admission, next 3 char course enrolled, next digit section number, next two digits sequence number.
+//Output should contain students record sorted ascending order based on sequence number and decending order based on section number.
+//Output should fill in gaps present in sequence number with dummy values.
 
 import java.util.ArrayList;
 import java.util.Collections;
